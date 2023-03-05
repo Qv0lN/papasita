@@ -11,7 +11,7 @@ app = QApplication([])
 
 main_win = QWidget()
 
-main_win.setWindowTitle('')
+main_win.setWindowTitle('karandash')
 main_win.resize(600, 400)
 
 Button1 = QPushButton('Папка')
